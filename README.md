@@ -96,7 +96,7 @@ Future versions may support:
 ```text
 voice-assistant/
 │
-├── core/
+├── app/
 │   ├── recognizer.py
 │   ├── command_handler.py
 │   └── actions.py
@@ -118,7 +118,7 @@ voice-assistant/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/voice-assistant.git
+git clone https://github.com/freelancemrel-byte/voice-assistant.git
 cd voice-assistant
 ```
 
